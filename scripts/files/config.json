@@ -6,7 +6,6 @@
     "androidSdkPath": "/Users/user/Library/Android/sdk/",
     "apktPath": "/Users/user/Tools/apktool",
     "sdbPath": null,
-    "fridaDevPath": "/data/local/frida-server",
     "fridaServerPath": "",
     "deviceId": null,
     "useEmulator": false,
